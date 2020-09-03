@@ -52,7 +52,7 @@ p {
 }
 
 #showcase .bg-image {
-  position: absolute;
+  /*position: absolute;*/
   background: #333
     url("https://static.pexels.com/photos/248515/pexels-photo-248515.png");
   background-position: center;
